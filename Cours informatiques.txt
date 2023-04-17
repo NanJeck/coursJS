@@ -1,0 +1,47 @@
+Windows / Linux / MacOS
+
+Apache / NginX ( Serveur Web )
+
+MySQL (BDD) 
+
+PHP
+
+Overapi = site qui regroupe la documentation de chaque programme informatique telle que JavaScript ou bien PHP.
+
+Un site static est un site internet sans base de données.
+Un site dynamic est un site internet avec une ou des bases de données.
+
+JavaScript = permet de créer de l'intéractivité avec l'utilisateur dans un navigateur Web.
+
+On insère une balise script dans du code HTML pour ajouter de la programmation JavaScript. 
+
+On peut le placer soit avant ou après la balise body. 
+
+Si on le place avant la balise body, le contenu dans la balise script sera chargé avant le contenu de la balise body.
+
+De plus, la page prendra plus de temps à charger du faite de l'emplacement de la balise script en tête du code HTML soit avant la balise body. 
+
+L'attribut DEFER permet de faire charger le contenu de la balise script après le contenu de la balise body au cas ou on place la balise script avant la balise body.
+
+Pour lier un fichier JavaScript à un fichier HTML, on utilise l'attribut SRC pour indiquer le chemin vers le fichier JavaScript.
+
+On utilise les barres obliques pour faire un commentaire d'une seule ligne tandis que pour les commentaires de plusieurs lignes, on utilise la barre oblique et l'étoile.
+
+Les raccourcis suivants servent à insérer des commentaires : CTRL + / pour un seul commentaire et SHIFT + ALT + A pour plusieurs commentaires.
+
+Une VARIABLE est un conteneur ou on va placer des données. Pour déclarer une variable, il faut lui associer un nom( Déclaration de variable ).
+
+On utilise CONSOLE.LOG() pour afficher des données dans le console d'un navigateur.
+
+JavaScript ne fait pas la différence entre les nombres entiers et réels ou quelques soient le type. Ils les considèrent tous comme des NUMBERS.
+
+BOOLEAN = la valeur true correspond à 1 tandis que la valeur false correspond à 0.
+
+les valeurs d'un tableau dans JavaScript sont automatiquement indéxées. l'index de la premier valeur commence toujours par 0 et non par 1. 
+
+Deux notations existent pour déclarer un tableau :
+
+- var NomVariable = [];
+- var NomVariable = New Array;
+
+Un Tableau est strictement avec des nombres tandis que qu'un tableau avec des clés est avec des lettres et des chiffres( Alphanumérique - nous sommes dans un cas ou le tableau est un objet ).
